@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Ironman",
+        "img": "https://i.ibb.co/1q7LpKX/8b28e08b4f3f0d4b393ffe16d3b21fbd.jpg",
+        "description": "Genius billionaire inventor with a high-tech suit.",
+        "salary": 20000,
+        "work": "Tech Genius / Avenger"
+    },
+    {
+        "id": 2,
+        "name": "Captain America",
+        "img": "https://i.ibb.co/tK7yJNk/marvel-captain-america-avenger-fight-blcbyvbnydx5y9wb.jpg",
+        "description": "Super-soldier with enhanced strength and a shield.",
+        "salary": 18000,
+        "work": "Team Leader / Avenger"
+    },
+    {
+        "id": 3,
+        "name": "Black Widow",
+        "img": "https://i.ibb.co/MNZ1fxf/914-MHu-Df-MSL-AC-UF894-1000-QL80.jpg",
+        "description": "Master spy and assassin with exceptional combat skills.",
+        "salary": 15000,
+        "work": "Espionage Specialist / Avenger"
+    },
+    {
+        "id": 4,
+        "name": "Thor",
+        "img": "https://i.ibb.co/44D9hB2/hq720.jpg",
+        "description": "God of Thunder with a mystical hammer, Mjolnir.",
+        "salary": 22000,
+        "work": "Thunder God / Avenger"
+    },
+    {
+        "id": 5,
+        "name": "Hulk",
+        "img": "https://i.ibb.co/zbvKfZx/hulk-thor-ragnarok-2-1548346471.jpg",
+        "description": "Scientist turned green behemoth with immense strength.",
+        "salary": 10000,
+        "work": "Smash Specialist / Avenger"
+    },
+    {
+        "id": 6,
+        "name": "Black Panther",
+        "img": "https://i.ibb.co/xzqNjDM/v006q4ynkmbxcdfqo7fj.jpg",
+        "description": "King of Wakanda with superhuman agility and enhanced senses.",
+        "salary": 17000,
+        "work": "Wakandan Leader / Avenger"
+    },
+    {
+        "id": 7,
+        "name": "Doctor Strange",
+        "img": "https://i.ibb.co/18NncNn/desktop-wallpaper-dr-strange-top-65-best-dr-strange-background-doctor-strange-neon-thumbnail.jpg",
+        "description": "Sorcerer Supreme with mastery over mystical arts.",
+        "salary": 20000,
+        "work": "Mystical Protector / Avenger"
+    },
+    {
+        "id": 8,
+        "name": "Spider-Man",
+        "img": "https://i.ibb.co/3s1HqjQ/The-Amazing-Spider-Man-film-poster.jpg",
+        "description": "Teenage web-slinger with agility and spider-like abilities.",
+        "salary": 40000,
+        "work": "Friendly Neighborhood Hero / Avenger"
+    },
+    {
+        "id": 9,
+        "name": "Scarlet Witch",
+        "img": "https://i.ibb.co/Cnc7PkL/Elizabeth-Olsen-as-Wanda-Maximoff.jpg",
+        "description": "Wielder of chaos magic with reality-altering powers.",
+        "salary": 10000,
+        "work": "Reality Warper / Avenger"
+    },
+    {
+        "id": 10,
+        "name": "Star-Lord",
+        "img": "https://i.ibb.co/SvPLG7Q/chris-pratt-guardians-of-the-galaxy-vol-3-1670500873.jpg",
+        "description": "Space-faring adventurer and leader of the Guardians of the Galaxy.",
+        "salary": 16000,
+        "work": "Galactic Hero / Avenger"
+    }
+]
